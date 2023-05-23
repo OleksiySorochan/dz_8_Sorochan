@@ -5,3 +5,7 @@ def maine_function():
     s = a * b
     print(f"периметр дорівнює: {p}")
     print(f"Площина дорівнює: {s}")
+
+
+def test_function():
+    print('test_function')
