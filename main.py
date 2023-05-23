@@ -3,3 +3,5 @@ def maine_function():
     b = 10
     p = (a + b) * 2
     s = a * b
+    print(f"периметр дорівнює: {p}")
+    print(f"Площина дорівнює: {s}")
